@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "から",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2025-12-14T06:06:44.363933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボロディン: ダッタン人の踊り〔歌劇《イーゴリ公》から〕",
+      "artist": "Berliner Philharmoniker feat. Herbert von Karajan",
+      "has_synced": false,
+      "path": "select/01_ボロディン__ダッタン人の踊り〔歌劇《イーゴリ公》から〕_Berliner_Philharmoniker_feat._Herbert_von_Karajan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "『リボンの騎士』から「リボンの騎士」 - オリジナル",
+      "artist": "The Columbia Orchestra",
+      "has_synced": false,
+      "path": "select/02_『リボンの騎士』から「リボンの騎士」_-_オリジナル_The_Columbia_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幸せのドア (短編映画「ドラえもん のび太の結婚前夜」から)",
+      "artist": "中西保志、沢田知可子",
+      "has_synced": true,
+      "path": "select/03_幸せのドア_(短編映画「ドラえもん_のび太の結婚前夜」から)_中西保志、沢田知可子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きだから。",
+      "artist": "ユイカ",
+      "has_synced": true,
+      "path": "select/04_好きだから。_ユイカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "無限のdéjà-vu から ～Peaceful Session～",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/05_無限のdéjà-vu_から_~Peaceful_Session~_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "から",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_から_メガテラ・ゼロ.txt"
+    }
+  ]
+}
